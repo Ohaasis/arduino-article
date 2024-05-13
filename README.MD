@@ -42,10 +42,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | crie 10 headlines para nomes de artigos científicos sobre o assunto arduino uno                                                                                                                                                                                                    |
-| conteúdo | Comporte-se como um escritor de artigo engenheiro eletrônico e escreva o artigo atendendo as regras abaixo:
-{REGRAS} > No máximo 5 linhas por blocos de explicação > Me explique de maneira informal, como se eu fosse
-uma criança de 10 anos > Os blocos que serão criados estão abaixo: - O que é o Arduino UNO - Como utilizar o Arduino UNO
-- Variedades de aplicações do Arduino UNO - Exemplos das aplicações - Utilização do Arduino UNO no futuro - Exemplo de utilizações futuras - Faça um call to action para as minhas redes sociais - Coloque 3 hashtags que façam sentido |
+| conteúdo | Comporte-se como um escritor de artigo engenheiro eletrônico e escreva o artigo atendendo as regras abaixo: REGRAS: No máximo 5 linhas por blocos de explicação / Me explique de maneira informal, como se eu fosse uma criança de 10 anos / Os blocos que serão criados estão abaixo: O que é o Arduino UNO - Como utilizar o Arduino UNO / Variedades de aplicações do Arduino UNO - Exemplos das aplicações / Utilização do Arduino UNO no futuro - Exemplo de utilizações futuras/ Faça um call to action para as minhas redes sociais / Coloque 3 hashtags que façam sentido |
 
 
 Leonardo.AI：
@@ -71,10 +68,12 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ## 👨‍💻 Expert
 
+<p>&nbsp&nbsp&nbspIúri Mateus Engel<br>
+    &nbsp&nbsp&nbsp
     <a href="https://github.com/Ohaasis">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/iuri-engel-eng99">LinkedIn</a>
-&nbsp;|&nbsp;
+&nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
